@@ -99,26 +99,6 @@ body {
 
 
 
-#qr-footer {
-   background-color: #333;
-   color: #fff;
-   text-align: center;
-   padding: 20px;
-   position: fixed;
-   bottom: 0;
-   width: 100%;
-   z-index: 1000;
-}
-
-#qr-footer a {
-   color: #fff;
-   text-decoration: none;
-   transition: 0.3s;
-}
-
-#qr-footer a:hover {
-   color: #ccc;
-}
 
 
 
