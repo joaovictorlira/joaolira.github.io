@@ -15,6 +15,7 @@ function generateQrCode() {
    qrCodeImg.addEventListener("load", () => {
       container.classList.add("active")
       qrCodeBtn.innerText = "Código criado!"
+      qrCodeBtn.style.backgroundColor = "#070"
    })
    
 }
